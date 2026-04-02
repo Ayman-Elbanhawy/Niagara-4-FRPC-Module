@@ -9,7 +9,7 @@ Here, we provide an additional program to check whether the FRPC cloud port is v
 
 <img width="382" height="118" alt="image" src="https://github.com/user-attachments/assets/04ccf2fd-1d33-4edd-ad63-93fe363f8493" />
 
-Simply drag and drop the glineFrpc module into the wiresheet, and it will be ready to use.
+After gline.pem is added to your user trust store, simply drag and drop the glineFrpc module into the wiresheet, and it will be ready to use.
 <img width="786" height="106" alt="image" src="https://github.com/user-attachments/assets/ee2701db-2533-486e-bbaf-451bb6069f77" />
 
 Logs can also be read in Niagara's Application Director.
