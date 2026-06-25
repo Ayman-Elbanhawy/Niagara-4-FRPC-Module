@@ -15,8 +15,10 @@ After gline.pem is added to your user trust store, simply drag and drop the glin
 Logs can also be read in Niagara's Application Director.
 If you are interested, please contact: jason.zhang@gline-net.com or WhatsApp +8613801909968.
 
+---
+
 ## Documentation
 
 | Manual | Description |
 |--------|-------------|
-| [FRPC User Manual](docs/FRPC%20User%20Manual.pdf) | User manual for FRPC User Manual |
+| [FRPC User Manual](docs/FRPC%20User%20Manual.pdf) | Complete guide for deploying and managing FRPC tunnels in Niagara |
